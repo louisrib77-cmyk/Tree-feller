@@ -1,0 +1,12 @@
+# Nur mit Axt faellen
+require-axe: true
+# Wer schleicht (Shift), baut normal nur einen Block ab
+sneak-disables: true
+# Maximale Anzahl Staemme pro Baum
+max-logs: 200
+# Mindestanzahl Blaetter am Baum (schuetzt Holzhaeuser vor dem Faellen)
+min-leaves: 3
+# Direkt einen Setzling neu pflanzen
+replant: true
+# true = Setzling gratis, false = Setzling wird aus dem Inventar genommen
+free-sapling: true

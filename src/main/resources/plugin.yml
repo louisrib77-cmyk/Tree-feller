@@ -1,0 +1,9 @@
+name: TreeFeller
+version: 1.0.0
+main: de.louis.treefeller.TreeFeller
+api-version: "26.2"
+description: Faellt beim Abbauen des untersten Stamms den ganzen Baum und pflanzt direkt einen Setzling neu.
+permissions:
+  treefeller.use:
+    description: Erlaubt das Faellen ganzer Baeume
+    default: true
